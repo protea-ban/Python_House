@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="032457e9-76ff-404b-a0bb-f266a8e14313" name="Default" comment="" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/House_of_python$test_list.coverage" NAME="test_list Coverage Results" MODIFIED="1516717575824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20180123" />
+    <SUITE FILE_PATH="coverage/House_of_python$test_list_add.coverage" NAME="test_list_add Coverage Results" MODIFIED="1516717962438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20180123" />
+    <SUITE FILE_PATH="coverage/House of python$PythonEvent.coverage" NAME="Python使用两个Event对象同步生产者消费者问题 Coverage Results" MODIFIED="1526011897093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python使用两个Event对象同步生产者消费者问题" />
+    <SUITE FILE_PATH="coverage/House_of_python$test_list_zip.coverage" NAME="test_list_zip Coverage Results" MODIFIED="1516834738515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shared2" />
+    <SUITE FILE_PATH="coverage/House of python$.coverage" NAME="判断目标网页编码的几种方法 Coverage Results" MODIFIED="1526477675668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/判断目标网页编码的几种方法" />
+    <SUITE FILE_PATH="coverage/House_of_python$tkinter_DigitalWatch_pyw.coverage" NAME="tkinter_DigitalWatch.pyw Coverage Results" MODIFIED="1524537655579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python使用pyinstaller打包几个小技巧" />
+    <SUITE FILE_PATH="coverage/House of python$laji.coverage" NAME="laji Coverage Results" MODIFIED="1523453357719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/垃圾邮件内容" />
+    <SUITE FILE_PATH="coverage/House of python$length_of_ltl.coverage" NAME="length_of_ltl Coverage Results" MODIFIED="1523368156809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_auto" />
+    <SUITE FILE_PATH="coverage/House_of_python$Python6174.coverage" NAME="使用Python验证6174猜想 Coverage Results" MODIFIED="1531650560493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/使用Python验证6174猜想" />
+    <SUITE FILE_PATH="coverage/House of python$length_of_CTL.coverage" NAME="length_of_CTL Coverage Results" MODIFIED="1528266875611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20180517" />
+    <SUITE FILE_PATH="coverage/House of python$Pythonsorted__sort__.coverage" NAME="Python内置函数sorted()和列表方法sort()的排序原理 Coverage Results" MODIFIED="1523621968346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python内置函数sorted()和列表方法sort()的排序原理" />
+    <SUITE FILE_PATH="coverage/House_of_python$test_zip_enumerate.coverage" NAME="test_zip_enumerate Coverage Results" MODIFIED="1516839688658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shared2" />
+    <SUITE FILE_PATH="coverage/House_of_python$Python.coverage" NAME="Python计算组合数生成杨辉三角形 Coverage Results" MODIFIED="1547367240082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/House_of_python$test_expression.coverage" NAME="test_expression Coverage Results" MODIFIED="1516840266449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shared2" />
+    <SUITE FILE_PATH="coverage/House of python$Pythonturtley_9_x_2.coverage" NAME="Python使用turtle绘制函数y=9-x^2的图像 Coverage Results" MODIFIED="1526997804500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python使用turtle绘制函数y=9-x^2的图像" />
+    <SUITE FILE_PATH="coverage/House_of_python$test_sort_sorted.coverage" NAME="test_sort_sorted Coverage Results" MODIFIED="1516837259181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shared2" />
+    <SUITE FILE_PATH="coverage/House of python$py_WMI.coverage" NAME="py_WMI Coverage Results" MODIFIED="1523362985576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python通过WMI读取主板BIOS信息" />
+    <SUITE FILE_PATH="coverage/House of python$Python_3_610.coverage" NAME="Python 3.6模拟输入并爬取百度前10页密切相关链接 Coverage Results" MODIFIED="1528528851462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 3.6模拟输入并爬取百度前10页密切相关链接" />
+    <SUITE FILE_PATH="coverage/House of python$Pythonindex__.coverage" NAME="Python字符串index()方法应用案例一则 Coverage Results" MODIFIED="1525872566295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python字符串index()方法应用案例一则" />
+    <SUITE FILE_PATH="coverage/House of python$Python.coverage" NAME="Python实现中英文混排时行号对齐 Coverage Results" MODIFIED="1528530967685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python实现中英文混排时行号对齐" />
+    <SUITE FILE_PATH="coverage/House of python$excel_merge.coverage" NAME="excel_merge Coverage Results" MODIFIED="1522910995089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python批量合并带有合并单元格的Excel文件" />
+    <SUITE FILE_PATH="coverage/House_of_python$test_divt.coverage" NAME="test_divt Coverage Results" MODIFIED="1516843856394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shared2" />
+    <SUITE FILE_PATH="coverage/House of python$my_excel.coverage" NAME="my_excel Coverage Results" MODIFIED="1523539279752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python批量合并带有合并单元格的Excel文件" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="House of python" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="028Python监视电子邮箱并提示收到新邮件.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/028Python监视电子邮箱并提示收到新邮件.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+              <folding>
+                <element signature="e#180#191#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/shared2/test_sort_sorted.py" />
+        <option value="$PROJECT_DIR$/shared2/test_zip_enumerate.py" />
+        <option value="$PROJECT_DIR$/shared2/test_expression.py" />
+        <option value="$PROJECT_DIR$/shared2/test_vector.py" />
+        <option value="$PROJECT_DIR$/shared2/test_divt.py" />
+        <option value="$PROJECT_DIR$/Python批量合并带有合并单元格的Excel文件/excel_merge.py" />
+        <option value="$PROJECT_DIR$/Python批量合并带有合并单元格的Excel文件/test.py" />
+        <option value="$PROJECT_DIR$/Python通过WMI读取主板BIOS信息/py_WMI.py" />
+        <option value="$PROJECT_DIR$/my_auto/LTL公式_转换规则.txt" />
+        <option value="$PROJECT_DIR$/my_auto/length_of_ltl.py" />
+        <option value="$PROJECT_DIR$/垃圾邮件内容/laji.py" />
+        <option value="$PROJECT_DIR$/Python回文判断代码/Python回文判断代码.py" />
+        <option value="$PROJECT_DIR$/使用Python实现电子邮件群发功能/使用Python实现电子邮件群发功能.py" />
+        <option value="$PROJECT_DIR$/判断吉祥数字/判断吉祥数字.py" />
+        <option value="$PROJECT_DIR$/Python批量合并带有合并单元格的Excel文件/my_excel.py" />
+        <option value="$PROJECT_DIR$/Python版插入排序算法/Python版插入排序算法.py" />
+        <option value="$PROJECT_DIR$/Python内置函数sorted()和列表方法sort()的排序原理/Python内置函数sorted()和列表方法sort()的排序原理.py" />
+        <option value="$PROJECT_DIR$/使用Python查看汉诺塔移动详细过程/使用Python查看汉诺塔移动详细过程.py" />
+        <option value="$PROJECT_DIR$/Python按元组中第一个字符串升序第二个字符串降序排序/Python按元组中第一个字符串升序第二个字符串降序排序.py" />
+        <option value="$PROJECT_DIR$/Python使用正则表达式检查书稿中不应该出现的重复字/Python使用正则表达式检查书稿中不应该出现的重复字.py" />
+        <option value="$PROJECT_DIR$/Python使用pyinstaller打包几个小技巧/tkinter_DigitalWatch.pyw" />
+        <option value="$PROJECT_DIR$/Python字符串index()方法应用案例一则/Python字符串index()方法应用案例一则.py" />
+        <option value="$PROJECT_DIR$/Python一句话过滤字符串中的空白字符和中英文标点/Python一句话过滤字符串中的空白字符和中英文标点.py" />
+        <option value="$PROJECT_DIR$/Python使用两个Event对象同步生产者消费者问题/Python使用两个Event对象同步生产者消费者问题.py" />
+        <option value="$PROJECT_DIR$/Python生成器函数案例一则：理财收益计算/Python生成器函数案例一则：理财收益计算.py" />
+        <option value="$PROJECT_DIR$/举两道题的妙解/矩形分割问题.py" />
+        <option value="$PROJECT_DIR$/举两道题的妙解/人名问题.py" />
+        <option value="$PROJECT_DIR$/两行Python代码实现电影打分与推荐/两行Python代码实现电影打分与推荐.py" />
+        <option value="$PROJECT_DIR$/单词非两端字符改为小写/单词非两端字符改为小写.py" />
+        <option value="$PROJECT_DIR$/判断目标网页编码的几种方法/判断目标网页编码的几种方法.py" />
+        <option value="$PROJECT_DIR$/Python文件操作小案例：交替合并两个记事本文件/Python文件操作小案例：交替合并两个记事本文件.py" />
+        <option value="$PROJECT_DIR$/Python使用turtle绘制函数y=9-x^2的图像/Python使用turtle绘制函数y=9-x^2的图像.py" />
+        <option value="$PROJECT_DIR$/Python绘制具有描边效果和内部填充的柱状图/Python绘制具有描边效果和内部填充的柱状图.py" />
+        <option value="$PROJECT_DIR$/Python使用Scrapy爬虫框架爬取天涯社区小说“大宗师”全文/pachong.py" />
+        <option value="$PROJECT_DIR$/Python使用Scrapy爬虫框架爬取天涯社区小说“大宗师”全文/xiaoshuo/spiderYichangGuishi.py" />
+        <option value="$PROJECT_DIR$/Python监视电子邮箱并提示收到新邮件/Python监视电子邮箱并提示收到新邮件.py" />
+        <option value="$PROJECT_DIR$/20180517/length_of_CTL.py" />
+        <option value="$PROJECT_DIR$/Python 3/6模拟输入并爬取百度前10页密切相关链接/Python 3.6模拟输入并爬取百度前10页密切相关链接.py" />
+        <option value="$PROJECT_DIR$/Python 3/list.txt" />
+        <option value="$PROJECT_DIR$/Python实现中英文混排时行号对齐/Python实现中英文混排时行号对齐.py" />
+        <option value="$PROJECT_DIR$/Python 3.6模拟输入并爬取百度前10页密切相关链接/Python 3.6模拟输入并爬取百度前10页密切相关链接.py" />
+        <option value="$PROJECT_DIR$/20180612RNA序列生成/RNA.py" />
+        <option value="$PROJECT_DIR$/Python使用秦九韶算法求解多项式的值/Python使用秦九韶算法求解多项式的值.py" />
+        <option value="$PROJECT_DIR$/Python使用三种方法批量修改记事本文件编码格式/Python使用三种方法批量修改记事本文件编码格式.py" />
+        <option value="$PROJECT_DIR$/Python使用三种方法批量修改记事本文件编码格式/方法一.py" />
+        <option value="$PROJECT_DIR$/Python使用三种方法批量修改记事本文件编码格式/方法二.py" />
+        <option value="$PROJECT_DIR$/Python使用三种方法批量修改记事本文件编码格式/方法三.py" />
+        <option value="$PROJECT_DIR$/使用Python列表方法模拟约瑟夫环问题/使用Python列表方法模拟约瑟夫环问题原创： 董付国 Python小屋.py" />
+        <option value="$PROJECT_DIR$/使用Python列表方法模拟约瑟夫环问题/使用Python列表方法模拟约瑟夫环问题.py" />
+        <option value="$PROJECT_DIR$/使用Python验证6174猜想/使用Python验证6174猜想.py" />
+        <option value="$PROJECT_DIR$/Python计算组合数生成杨辉三角形.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="37" />
+    <option name="y" value="85" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python_House" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_House" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="E:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WorkSpace\PycharmProjects\House of python\Python 3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyJianGuoYun\WorkSpace\PycharmProjects\House of python\Python使用正则表达式检查书稿中不应该出现的重复字" />
+      <recent name="F:\WorkSpace\PycharmProjects\House of python\my_auto" />
+      <recent name="F:\WorkSpace\PycharmProjects\House of python\Python批量合并带有合并单元格的Excel文件" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.length_of_CTL">
+    <configuration name="Python 3.6模拟输入并爬取百度前10页密切相关链接" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="House of python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 3.6模拟输入并爬取百度前10页密切相关链接" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3.6模拟输入并爬取百度前10页密切相关链接/Python 3.6模拟输入并爬取百度前10页密切相关链接.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Python绘制具有描边效果和内部填充的柱状图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="House of python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python绘制具有描边效果和内部填充的柱状图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python绘制具有描边效果和内部填充的柱状图/Python绘制具有描边效果和内部填充的柱状图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="使用Python验证6174猜想" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="House of python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/使用Python验证6174猜想" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/使用Python验证6174猜想/使用Python验证6174猜想.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Python计算组合数生成杨辉三角形" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="House of python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python计算组合数生成杨辉三角形.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="使用Python列表方法模拟约瑟夫环问题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="House of python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/使用Python列表方法模拟约瑟夫环问题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/使用Python列表方法模拟约瑟夫环问题/使用Python列表方法模拟约瑟夫环问题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="false" name="Python监视电子邮箱并提示收到新邮件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python监视电子邮箱并提示收到新邮件" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="House of python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python监视电子邮箱并提示收到新邮件/Python监视电子邮箱并提示收到新邮件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Python实现中英文混排时行号对齐" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python实现中英文混排时行号对齐" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="House of python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python实现中英文混排时行号对齐/Python实现中英文混排时行号对齐.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="length_of_CTL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="House of python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20180517" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20180517/length_of_CTL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="House of python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Python.length_of_CTL" />
+      <item itemvalue="Python.Python绘制具有描边效果和内部填充的柱状图" />
+      <item itemvalue="Python.Python 3.6模拟输入并爬取百度前10页密切相关链接" />
+      <item itemvalue="Python.使用Python验证6174猜想" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.使用Python验证6174猜想" />
+        <item itemvalue="Python.Python 3.6模拟输入并爬取百度前10页密切相关链接" />
+        <item itemvalue="Python.length_of_CTL" />
+        <item itemvalue="Python.Python绘制具有描边效果和内部填充的柱状图" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="032457e9-76ff-404b-a0bb-f266a8e14313" name="Default" comment="" />
+      <created>1516667027072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516667027072</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="37" y="85" width="1386" height="788" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32921812" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3476874" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3338898" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21417798" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" x="0" y="0" width="296" height="588" id="Documentation" order="5" side_tool="true" weight="0.3295626" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shared2/test_divt.py" />
+    <entry file="file://$PROJECT_DIR$/Python批量合并带有合并单元格的Excel文件/excel_merge.py" />
+    <entry file="file://$PROJECT_DIR$/Python批量合并带有合并单元格的Excel文件/test.py" />
+    <entry file="file://$PROJECT_DIR$/Python通过WMI读取主板BIOS信息/py_WMI.py" />
+    <entry file="file://$PROJECT_DIR$/一行python代码统计词频/一行python代码统计词频.py" />
+    <entry file="file://$PROJECT_DIR$/垃圾邮件内容/0.txt" />
+    <entry file="file://$PROJECT_DIR$/resub/re_sub.py" />
+    <entry file="file://$PROJECT_DIR$/Python批量合并带有合并单元格的Excel文件/my_excel.py" />
+    <entry file="file://$PROJECT_DIR$/resub/readme.txt" />
+    <entry file="file://$PROJECT_DIR$/my_auto/LTL公式_转换规则.txt" />
+    <entry file="file://$PROJECT_DIR$/垃圾邮件内容/laji.py" />
+    <entry file="file://$PROJECT_DIR$/Python回文判断代码/Python回文判断代码.py" />
+    <entry file="file://$PROJECT_DIR$/使用Python实现电子邮件群发功能/使用Python实现电子邮件群发功能.py" />
+    <entry file="file://$PROJECT_DIR$/判断吉祥数字/判断吉祥数字.py" />
+    <entry file="file://$PROJECT_DIR$/my_auto/length_of_ltl.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1157457246/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/Python内置函数sorted()和列表方法sort()的排序原理/Python内置函数sorted()和列表方法sort()的排序原理.py" />
+    <entry file="file://$PROJECT_DIR$/Python版插入排序算法/Python版插入排序算法.py" />
+    <entry file="file://$PROJECT_DIR$/使用Python查看汉诺塔移动详细过程/使用Python查看汉诺塔移动详细过程.py" />
+    <entry file="file://$PROJECT_DIR$/Python按元组中第一个字符串升序第二个字符串降序排序/Python按元组中第一个字符串升序第二个字符串降序排序.py" />
+    <entry file="file://$PROJECT_DIR$/Python使用正则表达式检查书稿中不应该出现的重复字/Python使用正则表达式检查书稿中不应该出现的重复字.py" />
+    <entry file="file://$PROJECT_DIR$/Python使用pyinstaller打包几个小技巧/tkinter_DigitalWatch.pyw" />
+    <entry file="file://$PROJECT_DIR$/Python字符串index()方法应用案例一则/Python字符串index()方法应用案例一则.py" />
+    <entry file="file://$PROJECT_DIR$/Python一句话过滤字符串中的空白字符和中英文标点/Python一句话过滤字符串中的空白字符和中英文标点.py" />
+    <entry file="file://$PROJECT_DIR$/Python使用两个Event对象同步生产者消费者问题/Python使用两个Event对象同步生产者消费者问题.py" />
+    <entry file="file://$PROJECT_DIR$/Python生成器函数案例一则：理财收益计算/Python生成器函数案例一则：理财收益计算.py" />
+    <entry file="file://$PROJECT_DIR$/举两道题的妙解/人名问题.py" />
+    <entry file="file://$PROJECT_DIR$/举两道题的妙解/矩形分割问题.py" />
+    <entry file="file://$PROJECT_DIR$/两行Python代码实现电影打分与推荐/两行Python代码实现电影打分与推荐.py" />
+    <entry file="file://$PROJECT_DIR$/单词非两端字符改为小写/单词非两端字符改为小写.py" />
+    <entry file="file://$PROJECT_DIR$/判断目标网页编码的几种方法/判断目标网页编码的几种方法.py" />
+    <entry file="file://$PROJECT_DIR$/Python文件操作小案例：交替合并两个记事本文件/Python文件操作小案例：交替合并两个记事本文件.py" />
+    <entry file="file://$PROJECT_DIR$/Python绘制具有描边效果和内部填充的柱状图/Python绘制具有描边效果和内部填充的柱状图.py" />
+    <entry file="file://$PROJECT_DIR$/Python使用Scrapy爬虫框架爬取天涯社区小说“大宗师”全文/pachong.py" />
+    <entry file="file://$PROJECT_DIR$/Python使用Scrapy爬虫框架爬取天涯社区小说“大宗师”全文/xiaoshuo/spiderYichangGuishi.py" />
+    <entry file="file://$PROJECT_DIR$/Python使用turtle绘制函数y=9-x^2的图像/Python使用turtle绘制函数y=9-x^2的图像.py" />
+    <entry file="file://$PROJECT_DIR$/Python使用Scrapy爬虫框架爬取天涯社区小说“大宗师”全文/xiaoshuo/xiaoshuo/spiders/spiderYichangGuishi.py" />
+    <entry file="file://$PROJECT_DIR$/Python监视电子邮箱并提示收到新邮件/Python监视电子邮箱并提示收到新邮件.py" />
+    <entry file="file://$PROJECT_DIR$/Python 3.6模拟输入并爬取百度前10页密切相关链接/list.txt" />
+    <entry file="file://$PROJECT_DIR$/20180517/length_of_CTL.py" />
+    <entry file="file://$PROJECT_DIR$/Python实现中英文混排时行号对齐/Python实现中英文混排时行号对齐.py" />
+    <entry file="file://$PROJECT_DIR$/Python 3.6模拟输入并爬取百度前10页密切相关链接/Python 3.6模拟输入并爬取百度前10页密切相关链接.py" />
+    <entry file="file://$PROJECT_DIR$/Python使用秦九韶算法求解多项式的值/Python使用秦九韶算法求解多项式的值.py" />
+    <entry file="file://$PROJECT_DIR$/Python使用三种方法批量修改记事本文件编码格式/方法一.py" />
+    <entry file="file://$PROJECT_DIR$/Python使用三种方法批量修改记事本文件编码格式/方法二.py" />
+    <entry file="file://$PROJECT_DIR$/Python使用三种方法批量修改记事本文件编码格式/方法三.py" />
+    <entry file="file://$PROJECT_DIR$/20180612RNA序列生成/RNA.py" />
+    <entry file="file://$PROJECT_DIR$/使用Python验证6174猜想/使用Python验证6174猜想.py" />
+    <entry file="file://$PROJECT_DIR$/使用Python列表方法模拟约瑟夫环问题/使用Python列表方法模拟约瑟夫环问题.py" />
+    <entry file="file://$PROJECT_DIR$/Python计算组合数生成杨辉三角形.py" />
+    <entry file="file://$PROJECT_DIR$/028Python监视电子邮箱并提示收到新邮件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+          <folding>
+            <element signature="e#180#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
