@@ -1,9 +1,9 @@
-#!/usr/bin/env python  
-#-*- coding:utf-8 -*-  
-""" 
-@file: 判断目标网页编码的几种方法.py 
+#!/usr/bin/env python
+#-*- coding:utf-8 -*-
+"""
+@file: 判断目标网页编码的几种方法.py
 @time: 2018/05/16
-"""  
+"""
 from urllib.request import urlopen
 from chardet import detect
 from bs4 import BeautifulSoup
