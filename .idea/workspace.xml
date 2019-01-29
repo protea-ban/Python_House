@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="032457e9-76ff-404b-a0bb-f266a8e14313" name="Default" comment="" />
+    <list default="true" id="032457e9-76ff-404b-a0bb-f266a8e14313" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,14 +56,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="028Python监视电子邮箱并提示收到新邮件.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="028Python监视电子邮箱并提示收到新邮件.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/028Python监视电子邮箱并提示收到新邮件.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-              <folding>
-                <element signature="e#180#191#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1050">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="036Python使用多线程搜索指定范围内的所有素数.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/036Python使用多线程搜索指定范围内的所有素数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="517">
+              <caret line="45" column="14" lean-forward="true" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -75,10 +83,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/shared2/test_sort_sorted.py" />
         <option value="$PROJECT_DIR$/shared2/test_zip_enumerate.py" />
         <option value="$PROJECT_DIR$/shared2/test_expression.py" />
         <option value="$PROJECT_DIR$/shared2/test_vector.py" />
@@ -129,6 +139,7 @@
         <option value="$PROJECT_DIR$/使用Python列表方法模拟约瑟夫环问题/使用Python列表方法模拟约瑟夫环问题.py" />
         <option value="$PROJECT_DIR$/使用Python验证6174猜想/使用Python验证6174猜想.py" />
         <option value="$PROJECT_DIR$/Python计算组合数生成杨辉三角形.py" />
+        <option value="$PROJECT_DIR$/036Python使用多线程搜索指定范围内的所有素数.py" />
       </list>
     </option>
   </component>
@@ -163,11 +174,13 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,7 +192,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -451,19 +463,19 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32921812" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3476874" />
       <window_info anchor="right" id="Mongo Explorer" order="4" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3338898" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21417798" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -489,7 +501,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shared2/test_divt.py" />
     <entry file="file://$PROJECT_DIR$/Python批量合并带有合并单元格的Excel文件/excel_merge.py" />
     <entry file="file://$PROJECT_DIR$/Python批量合并带有合并单元格的Excel文件/test.py" />
     <entry file="file://$PROJECT_DIR$/Python通过WMI读取主板BIOS信息/py_WMI.py" />
@@ -541,11 +552,15 @@
     <entry file="file://$PROJECT_DIR$/Python计算组合数生成杨辉三角形.py" />
     <entry file="file://$PROJECT_DIR$/028Python监视电子邮箱并提示收到新邮件.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-          <folding>
-            <element signature="e#180#191#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1050">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/036Python使用多线程搜索指定范围内的所有素数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="45" column="14" lean-forward="true" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
         </state>
       </provider>
     </entry>
